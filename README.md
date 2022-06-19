@@ -45,3 +45,7 @@ USER 2       | `Ajit`        | `Ajit`
 9. When user complete his/her order checkout only then admin can view the bills generated.
 10. Users can browse categories and products interactively.
 11. Products can be added to the cart from product detail page only.
+
+
+![mycart drawio](https://user-images.githubusercontent.com/57793374/174478922-53e5e696-cee1-4c98-8e24-51ac784e5959.png)
+
